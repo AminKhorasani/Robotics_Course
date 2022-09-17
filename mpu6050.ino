@@ -1,7 +1,6 @@
 /* Read quaternion and roll, pitch, yaw from MPU6050
 * Robotics Course semester fall 2022 _ MiniProject #1
-*Amin Khorasani 
-*/
+*/ 
 
 
 #include "I2Cdev.h"
